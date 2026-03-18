@@ -15,6 +15,10 @@ This is a list of c.2800 individual sentences processed by Full Fact's AI pipeli
 
 This is a list of c.500 articles, including the overall predicted topic of the article, the publication and date and a list of sentences.
 
+### fullfact-2026-03-18-latest-fact-checks.json
+
+A collection of 20 recent fact check articles, as published on [fullfact.org](https://fullfact.org/latest/). Many of these are tagged as "third party fact checks", meaning that Full Fact was paid by Meta to find and flag misleading content on Facebook/Instagra.
+
 ## LLM answers to repeated questions ("benchmark") 
 
 We ask some common LLMs the same questions every day to measure consistency, accuracy etc. Full Fact plans to develop tools to analyse this data as a way of learning (and sharing) how reliable LLMs are at answering every day questions. 
