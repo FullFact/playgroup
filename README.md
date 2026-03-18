@@ -1,5 +1,7 @@
 # playgroup
-Sharing resources for Ian Ozsvald Playgroup 
+Sharing resources for Ian Ozsvald Playgroup on Friday 20th March 2026.
+
+Please do not share any data here outside members of that group.
 
 ## Claims and articles
 
